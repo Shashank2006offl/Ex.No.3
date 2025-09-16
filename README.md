@@ -311,5 +311,97 @@ Sustain (Week 4 onward): Weekly meme drops + monthly community shoutouts.
 👉 Local issue I chose = Rising Heatwaves & Power Shortages (very relatable for 19–24 in South India, especially summers).
 
 
+5. **Chain-of-Thought Prompting**  
+*Objective:* Use step-by-step reasoning for complex issues.  
+*Example Prompt:*  
+
+
+6. **Instruction with Constraints**  
+*Objective:* Respond within specific limits.  
+*Example Prompt:*  
+`"Respond to order inquiries in no more than 50 words and avoid technical jargon. For example, 'Your order is on the way and should arrive by [date]. Feel free to reach out if you need anything else.'"`
+
+7. **Reflective Prompting**  
+*Objective:* Reflect the user’s query back before answering.  
+*Example Prompt:*  
+`"When a customer asks for help, first reflect their question back to them. For example, if they ask 'How can I reset my password?' respond with 'You're asking how to reset your password, correct? Here’s how you can do it.'"`
+
+---
+
+## Climate Change Awareness Campaign  
+*(Preceding Question Prompting – Few-Shot)*  
+
+### Prompt 1  
+> **I want to create a Climate Change Awareness Campaign. Give me a simple output format that I should always follow for presenting the campaign.**
+
+**Output Format Suggested**  
+- **Audience Snapshot** – age group, location, education level, current beliefs, main concerns  
+- **Cultural Factors** – languages, values, trusted leaders/figures, sensitivities  
+- **Channels & Content** – top 2–3 communication channels + one sample content idea per channel  
+- **Message Pillars** – three short slogans/lines  
+- **Call-to-Action(s)** – 1–2 clear actions people should take  
+- **Measurement & Evaluation** – 2–3 KPIs (e.g., sign-ups, attendance, shares)  
+- **Timeline / Phases** – Launch → Engage → Sustain
+
+---
+
+### Prompt 2  
+> **Give me 2–3 sample campaigns using that format for different audiences like students, farmers, or families.**
+
+*ChatGPT produced three complete sample campaigns (College Students, Farmers, Urban Families) using the above structure.*
+
+---
+
+### Prompt 3  
+> **Inputs:**  
+> Audience: age 19–24, group, location, concerns  
+> Cultural factors: Tamil, Telugu & Malayalam  
+> Channels: WhatsApp Groups & Communities, Reddit, X  
+> Local issue: *Choose your own*
+
+**Tailored Campaign** – *Youth (South India, 19–24)*  
+
+- **Audience Snapshot**  
+19–24 year-olds, college students & young professionals in Tamil Nadu, Andhra Pradesh, Kerala.  
+Concerns: rising heat, irregular rainfall, air quality, power cuts.
+
+- **Cultural Factors**  
+Languages: Tamil, Telugu, Malayalam + English online.  
+Value memes, humor, challenges; trust student leaders & local creators.
+
+- **Channels & Content**  
+- **WhatsApp Groups & Communities:** infographic packs “Heat Hacks: Stay Cool, Save Energy.”  
+- **Reddit (r/India + local subs):** AMA with young climate activists on city heatwaves.  
+- **X (Twitter):** meme threads & polls (“Spend ₹200 on AC bills or a weekend trip?”).
+
+- **Message Pillars**  
+“Stay Cool Without Burning the Planet”  
+“Your Voice = Climate Choice”  
+“Heatwaves Are Real — Be the Change”
+
+- **Call-to-Action(s)**  
+Join the #SouthYouth4Climate challenge: share one small habit (fan before AC, carpool, reusable bottles).  
+Retweet/post memes with the hashtag to spread awareness.
+
+- **Measurement & Evaluation**  
+QR scans of WhatsApp infographics, Reddit AMA participation, X hashtag engagement.
+
+- **Timeline / Phases**  
+Launch (Week 1): WhatsApp infographics + teaser polls on X.  
+Engage (Weeks 2–3): Reddit AMA + hashtag challenge.  
+Sustain (Week 4 onward): weekly meme drops + monthly community shoutouts.
+
+- **Local Issue Chosen**  
+Rising heatwaves and power shortages—highly relevant to South Indian summers.
+
+---
+
+## Result
+The various types of prompts—Direct Instruction, Contextual, Persona-Based, Few-Shot, Chain-of-Thought, Instruction with Constraints, and Reflective—were implemented successfully.  
+The climate-change campaign was generated using **Preceding Question Prompting (Few-Shot)** with all required audience-specific details.
+
+**Thus, the prompts were executed successfully.**
+
+
 # Result: 
 Thus the Prompts were exected succcessfully .
