@@ -405,5 +405,3 @@ The climate-change campaign was generated using **Preceding Question Prompting (
 **Thus, the prompts were executed successfully.**
 
 
-# Result: 
-Thus the Prompts were exected succcessfully .
